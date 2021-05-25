@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_section{
+    border-bottom: 1px solid #d3cdcd;
+}
+header{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+}
+header .logo{
+    float: left;
+    width: 20%;} 
+.logo img{
+    width: 31%;
+}
+nav{
+    float: right;
+    width: 40%;
+}
+nav ul{
+    text-transform: capitalize;
+    list-style: none;
+    overflow: hidden;
+}
+nav ul li{
+    float: left;
+    margin: 8px;
+}
+.content{
+
+width: 60%;
+
+margin: auto;
+
+text-align: center;
+}
+.content h1{
+
+text-transform: capitalize;
+
+margin-top: 25px;
+
+font-size: 29px;
+}
+.content h2{
+
+text-transform: capitalize;
+
+color: blue;
+
+margin-top: 8px;
+
+font-size: 29px;
+}
+.content p{
+
+margin: 16px;
+}
+.content img{
+    
+width: 69%;
+}
+.success{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.success_left_content{
+    float: left;
+    text-align: right;
+    width: 48%;
+}
+.success_left_content h1{
+    color: red;
+    font-size: 36px;}
+.success_left_content p{
+
+}
+.success_right_content{
+
+width: 48%;
+
+text-align: left;
+
+float: right;
+
+font-size: 50px;
+}
+.success_right_content h1{
+    
+font-size: 43px;
+}
+.feature{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+text-align: center;
+}
+.feature_one{
+    
+width: 25%;
+    
+float: left;
+    
+background-color: #FEEBED;
+    
+padding: 50px 30px;
+}
+.feature_one img, .feature_two img,.feature_three img {
+    
+width: 100%;
+}
+.feature_one h2, .feature_two h2, .feature_three h2{
+
+text-align: left;
+
+margin: 15px 0;
+}
+.feature_one p, .feature_two p,.feature_three p{
+
+text-align: left;
+}
+.feature_two{
+
+width: 25%;
+
+float: left;
+
+margin-left: 5%;
+
+background-color: #EAF9F4;
+
+padding: 50px 30px;
+}
+.feature_two img{
+
+
+}
+.feature_two h2{
+
+
+
+margin: 15px 0;
+}
+.feature_two p{
+    
+text-align: left;
+}
+.feature_three{
+
+width: 25%;
+
+float: right;
+
+background-color: #FFF8E8;
+
+padding: 50px 30px;
+}
+.feature_three img{
+
+width: 100%;
+}
+.feature_three h2{
+
+text-align: left;
+
+margin: 15px 0;
+}
+.feature_three p{
+    
+text-align: left;
+}
+.footer{
+    width: 100%;
+    background-color: #008AFF;
+    margin: 20px 0;
+    text-align: center;
+    padding: 23px 0;
+}
+.footer p{
+
+color: #1C85DE;
+
+font-size: 18px;
+}
+.footer span{
+    
+color: #fff;
+    
+font-size: 20px;
+    
+font-weight: 700;
+    
+letter-spacing: 7px;
+}
+
+
